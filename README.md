@@ -1,4 +1,5 @@
-This is a demo of React.js. I eventually plan to use React to build the frontend of my portfolio website
+This is a demo of React.js. I eventually plan to use React to build the frontend of my portfolio website.
+All text below this point is the boilerplate README.md document created by `create-react-app`, and can be ignored. It is there for my own reference.
 
 # Getting Started with Create React App
 
