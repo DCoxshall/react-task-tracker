@@ -1,3 +1,5 @@
+This is a demo of React.js. I eventually plan to use React to build the frontend of my portfolio website
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
